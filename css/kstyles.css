@@ -1,0 +1,252 @@
+/* JAFAR UDDIN */
+body{
+    background-color: ;
+    margin: 0px auto;
+}
+
+Wrap{
+   
+    width: 120px;
+    height: 1400px;
+    background-color: chartreuse;
+    margin: 0px auto;
+    
+    
+
+}
+header{
+    height: 100px;
+    width: 1400px;
+    background-color: ;
+    margin-left: 10px;
+    margin: 0px auto;
+   
+    
+  
+
+
+}
+
+.logo{
+    height: 100px;
+    width: 400px;
+    background-color: ;
+    float: left;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    border-radius: 50px;
+    text-align: center;
+   
+
+    
+   
+
+
+}
+.header_text{  
+    height: 100px;
+    width: 779px;
+    background-color: mediumturquoise;
+    float: right;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    text-align: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    padding-left: 100px;
+
+
+ 
+
+}
+.nav{ 
+    height: 39px;
+    width: 1400px;
+    background-color:red;
+    margin-left: 10px;
+    text-align: left;
+    padding-left: auto;
+    margin: 0px auto;
+    list-style-position: ;
+    
+
+
+}
+#slid{ 
+    height: 350px;
+    width: 1400px;
+    
+    margin-left: 10px;
+    margin: 0px auto;
+  
+
+
+
+}
+
+section{ 
+    height: 350px;
+    width: 1400px;
+    background-color: sienna;
+    margin-left: 10px;
+    margin: 0px auto;
+    
+  
+    
+
+}
+.one{ 
+    height: 350px;
+    width: 460px;
+    background-color:coral;
+    float: left;
+    text-align: justify;
+    text-decoration-color: cornsilk;
+    text-align: center;
+    overflow: auto;
+    
+
+
+}
+.two{
+    height: 350px;
+    width: 480px;
+    background-color:darkorchid;
+    float: left;
+    text-align: justify;
+    text-align: center;
+    text-decoration-color: cornsilk;
+   
+    overflow: auto;
+   
+
+}
+.three{
+    height: 350px;
+    width: 460px;
+    background-color: lightgreen;
+    float: left;
+    text-align: justify;
+    text-align: center;
+    text-decoration-color: cornsilk;
+    
+    overflow: auto;
+   
+   
+  
+
+}
+
+
+.footer{
+     height: 50px;
+     width: 1425px;
+     background-color: blueviolet;
+     margin-left: 5px;
+     text-decoration-color: turquoise;
+     text-align: left;
+     text-size-adjust: 40px;
+     text-shadow: chartreuse;
+     margin-top: 10px;
+     margin-bottom: 0px;
+     margin: 0px auto;
+     position: sticky;
+
+
+}
+
+
+
+
+
+
+/*Nav*/
+
+
+
+    ul{
+    list-style-type: none;
+    height: 60px;
+    width: 1400px;
+    margin: 0px auto;
+    padding: 0px;
+    border-left: auto;
+
+    
+   
+    
+
+    
+    
+    }
+    ul li{
+    float: left;
+    position: sticky;
+    border: 0.5px solid hsl(0, 0%, 100%);
+    margin-left: 0px;
+    text-align: left;
+    }
+    ul li a{
+    background-color: mediumturquoise;
+    padding: 10px 20px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    }
+    ul li:hover a{
+    color: white;
+    background-color: mediumturquoise;
+    }
+    ul li ul{
+    list-style-type: none;
+    padding: 0px;
+    position: absolute;
+    left: -9999px;
+    }
+    ul li:hover ul{
+    left: 0;
+    }
+    ul li ul li{
+    float: none;
+    width: 100px;
+    }
+    ul li ul  li ul{
+        position: absolute;
+        top: -999999px;
+
+
+    }
+    ul li ul  li:hover ul{
+      left: 100px;
+      top: 0px;
+    }
+
+/* other*/
+
+
+
+
+h1 ,{
+    text-align: center;
+    background-color: whitesmoke;
+    
+   
+  
+}
+
+h2{text-align: right;
+    
+    text-shadow: chartreuse;
+    margin-right: 20px;
+    margin-top: 10px;
+  
+
+}
+p{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+
